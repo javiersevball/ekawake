@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">EkaWake</string>
+    <string name="tview_macAddress">MAC address:</string>
+    <string name="etext_defaultMac">aa:bb:cc:dd:ee:ff</string>
+    <string name="tview_numberOfPackets">Number of packets:</string>
+    <string name="etext_defaultNumOfPackets">1</string>
+    <string name="button_send">SEND</string>
+    <string name="tview_sendingPackets">Sending packets...</string>
+    <string name="info">
+        javiersevball @ github\nGNU Lesser General Public License v3.0
+    </string>
+</resources>
