@@ -17,6 +17,8 @@
 
 package javiersevball.ekawake;
 
+
+// Class that contains the parameters required by the SendMagicPacketsTask
 class SendMagicPacketsTaskParams {
     private String destinationMacAddress;
     private int numberOfPacketsToSend;
